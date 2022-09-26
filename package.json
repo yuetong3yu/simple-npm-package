@@ -1,0 +1,20 @@
+{
+  "name": "@yuetong3yu/simple-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuetong3yu/simple-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuetong3yu/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/yuetong3yu/simple-npm-package#readme"
+}
